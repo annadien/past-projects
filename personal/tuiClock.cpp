@@ -4,12 +4,12 @@
  * TUI Clock Display
  * 
  * May 2024
- * 
  * github annadien
  * 
- * 
+ * Displays TUI clockface for user input hour and minute values. Hour hand 'H' and minute hand 'M'.
  * 
  */
+
   #include <iostream>
 
 void clockdisplay()
